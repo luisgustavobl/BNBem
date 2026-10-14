@@ -93,7 +93,7 @@ A triagem e a árvore são código puro: auditável e igual para todos os projet
 
 Este repositório é a vitrine pública do projeto. O protótipo, a base de regras, as instruções da IA e a base de conhecimento ficam num **repositório privado**, com acesso restrito à equipe TATU e a pessoas autorizadas do Banco do Nordeste, Hubine e Sebrae, nos termos do edital do hackathon (item 13.4).
 
-Para solicitar acesso: [luisgustavobl10@gmail.com / tatu.hackathon@gmail.com](<https://mail.google.com/mail/?view=cm&fs=1&to=luisgustavobl10@gmail.com,tatu.hackathon@gmail.com&su=Solicitar%20acesso%20ao%20prot%C3%B3tipo&body=Ol%C3%A1!%0A%0AGostaria%20de%20solicitar%20acesso%20ao%20prot%C3%B3tipo.%0A%0AEmpresa%2FInstitui%C3%A7%C3%A3o%20%28ex%3A%20BNB%2C%20Sebrae%29%3A%20%0ANome%3A%20%0ACargo%2F%C3%81rea%3A%20>)
+Para solicitar acesso: [luisgustavobl10@gmail.com / tatu.hackathon@gmail.com](<https://mail.google.com/mail/?view=cm&fs=1&to=luisgustavobl10@gmail.com,tatu.hackathon@gmail.com&su=Solicitar%20acesso%20ao%20prot%C3%B3tipo&body=Ol%C3%A1!%0A%0AGostaria%20de%20solicitar%20acesso%20ao%20prot%C3%B3tipo.%0A%0AEmpresa%2FInstitui%C3%A7%C3%A3o%3A%20%0ANome%3A%20%0ACargo%2F%C3%81rea%3A%20>)
 
 ## Resultados no evento
 
