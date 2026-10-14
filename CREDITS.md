@@ -25,7 +25,24 @@ As duas são carregadas pelo CDN [cdnjs](https://cdnjs.com/).
 
 A IA só sugere. A classe é recomendada por uma árvore de regras determinística, e a decisão final é do analista.
 
-A equipe também usou o Claude como copiloto durante o evento, para leitura das normas, fluxo, pitch e documentação. O código do protótipo foi escrito durante o hackathon (edital, item 8.7).
+### Ferramentas de IA usadas pela equipe
+
+| Ferramenta | Uso |
+|---|---|
+| NotebookLM (Google) | Estudo da Lei do Bem e das normas desde o início do projeto e, depois, conferência de erros que a equipe vinha enfrentando |
+| Antigravity (Google), com Claude Opus 5.5 e Gemini 3.8 | Revisão do relatório do projeto |
+| ChatGPT (OpenAI) | Nova revisão do relatório |
+| Claude (Anthropic) | Copiloto durante o evento (normas, fluxo, pitch e documentação) e correção final dos problemas apontados nas revisões |
+
+### Como as revisões aconteceram
+
+Desde o começo, a equipe usou o NotebookLM como uma forma alternativa de estudar a Lei do Bem e as normas ligadas a ela. Em certo momento, ele também passou a servir para conferir erros que a equipe vinha enfrentando.
+
+A partir daí, o relatório do projeto passou de uma ferramenta para outra, num handoff em sequência: primeiro para o Antigravity, com os modelos Claude Opus 5.5 e Gemini 3.8, e depois para o ChatGPT. Por fim, voltou ao Claude, onde a equipe corrigiu os problemas encontrados ao longo do caminho.
+
+Essa sequência funcionou como uma revisão cruzada. Cada ferramenta recebia o relatório sem ter participado de como ele foi feito e, por isso, o lia com outros olhos. Como modelos diferentes tendem a reparar em coisas diferentes, erros que tinham passado despercebidos por um eram apontados por outro.
+
+O código do protótipo foi escrito durante o hackathon (edital, item 8.7).
 
 ## Identidade visual
 
