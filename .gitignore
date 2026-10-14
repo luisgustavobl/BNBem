@@ -1,0 +1,36 @@
+# Massa de dados do evento: confidencial, não deve ir para o repositório
+01_projetos/
+massa/
+historicos_classificados.*
+projetos.csv
+evidencias.csv
+documentos.csv
+atividades_consolidadas.csv
+dicionario.pdf
+
+# Pacote completo do acervo e versões de trabalho
+TATU_BNBem_acervo.zip
+*_calibracao*.html
+
+# Credenciais
+.env
+*.key
+*secret*
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
+
+# Funcionamento do BNBem: fica só no repositório privado
+app/
+regras/
+conhecimento/
+exemplos/
+prompts/
+*.yaml
+*.yml
+BNBem*.html
