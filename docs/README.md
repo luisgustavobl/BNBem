@@ -3,6 +3,7 @@
 | Arquivo | Conteúdo | Situação |
 |---|---|---|
 | `pitch.pdf` | Slides do pitch apresentado no evento | ✅ Adicionado. As capturas da demonstração (slides 10 a 12) foram desfocadas porque mostram dados fictícios do evento |
+| `resultados_BNBem.xlsx` | Estatísticas agregadas das análises: rodadas, concordância, matriz de confusão, estabilidade, qualidade e tempo | ✅ Adicionado. Sem identificação de projetos nem conteúdo da massa |
 | `descricao-do-projeto.pdf` | Descrição do projeto no modelo oficial do evento (versão submetida) | Pendente |
 | `telas/` | Capturas do protótipo: triagem, critérios, decisão, parecer, painel, assistente e base de conhecimento | Pendente |
 

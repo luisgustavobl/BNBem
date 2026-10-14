@@ -107,6 +107,8 @@ Para solicitar acesso: [preencher contato].
 | Testes de validação | 141 |
 | Casos do evento analisados | 20 projetos: 3 Elegível, 6 Com ressalvas, 6 Não elegível e 5 Evidência insuficiente |
 
+Mais detalhes, como as rodadas de teste, a matriz de confusão, a estabilidade e a verificação de alucinação, estão em [`docs/resultados_BNBem.xlsx`](docs/resultados_BNBem.xlsx). A planilha traz só estatísticas agregadas, sem identificar projetos.
+
 Os números vêm da massa de dados **fictícia** do evento, que é confidencial e não faz parte deste repositório (veja [Dados](#dados)).
 
 ## Estrutura do repositório
@@ -116,6 +118,7 @@ BNBem/
 ├── docs/
 │   ├── telas/                  # capturas do protótipo
 │   ├── pitch.pdf
+│   ├── resultados_BNBem.xlsx   # estatísticas agregadas das análises
 │   └── descricao-do-projeto.pdf
 ├── CREDITS.md
 ├── LICENSE
